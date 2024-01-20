@@ -80,13 +80,13 @@ What is my email and how can you reach me?<br>
 My email is nguyentoan0275@gmail.com, please feel free to send me an email with any questions regarding projects or colllaborations.
 
 ## Links
-![Postman Routes](./assets/images/command_line.png)
+![Postman Routes](/Develop/assets/images/postman-routes.png)
 
-A link to the [Video](link):
+A link to the [Video](https://www.youtube.com/watch?v=zdKeyUkhgSc):
 ```
-link
+https://www.youtube.com/watch?v=zdKeyUkhgSc
 ```
-A link to the [repository](repo link):
+A link to the [repository](https://github.com/nguyent0275/eCommerce-Back-End):
 ```
 https://github.com/nguyent0275/eCommerce-Back-End
 ```
