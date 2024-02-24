@@ -82,9 +82,9 @@ My email is nguyentoan0275@gmail.com, please feel free to send me an email with 
 ## Links
 ![Postman Routes](/Develop/assets/images/postman-routes.png)
 
-A link to the [Video](https://www.youtube.com/watch?v=zdKeyUkhgSc):
+A link to the [Video](https://www.youtube.com/watch?v=l0vNrBImtd4):
 ```
-https://www.youtube.com/watch?v=zdKeyUkhgSc
+https://www.youtube.com/watch?v=l0vNrBImtd4
 ```
 A link to the [repository](https://github.com/nguyent0275/eCommerce-Back-End):
 ```
